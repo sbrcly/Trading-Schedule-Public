@@ -69,6 +69,10 @@ Traders are assigned based on their schedules and the Leagues they have been ass
 
 ![leagues6](https://user-images.githubusercontent.com/93163082/169716278-93335281-8249-48c0-98a5-0cc6a3101987.png)
 
+### 6. Game Details on click + hover
+
+![game_details](https://user-images.githubusercontent.com/93163082/169716428-7db711e3-b9f1-4b20-8abd-5cbfed5c30ff.gif)
+
 
 
 
