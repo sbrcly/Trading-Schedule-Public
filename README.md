@@ -11,6 +11,8 @@ Enjoy!
 ## Home Screen
 
 
+
+
 ![home_screen](https://user-images.githubusercontent.com/93163082/169713029-5ebd3564-bc1a-432f-801f-53b1d80c54ee.png)
 
 ### Where does the match data come from?
@@ -21,5 +23,8 @@ I am then parsing that data and appending it to the table you see.
 Traders are assigned based on their schedules and the Leagues they have been assigned.
 
 ### How do traders view their personal schedule?
+
+![choose_trader](https://user-images.githubusercontent.com/93163082/169714589-d7c8865f-e708-4f15-a556-835360f29ad5.gif)
+
 
 
