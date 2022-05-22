@@ -24,7 +24,9 @@ Traders are assigned based on their schedules and the Leagues they have been ass
 
 ### How do traders view their personal schedule?
 
-![choose_trader](https://user-images.githubusercontent.com/93163082/169714589-d7c8865f-e708-4f15-a556-835360f29ad5.gif)
+![choose_trader](https://user-images.githubusercontent.com/93163082/169714710-533996f0-4629-4f38-99fe-67a4f22c06d8.gif)
+
+
 
 
 
