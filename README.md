@@ -3,7 +3,7 @@ Public repo for Trading Schedule
 
 This is an internal tool that I built for Caesars Sportsbook.
 
-Below, you'll find multiple screenshots of video walk-throughs of the applications.
+Below, you'll find multiple screenshots and video walk-throughs of the application.
 
 Enjoy!
 
