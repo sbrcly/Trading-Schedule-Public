@@ -29,4 +29,18 @@ Traders are assigned based on their schedules and the Leagues they have been ass
 
 
 
+## Features
+
+
+
+### Edit Traders Assigned to games
+
+![change_trader](https://user-images.githubusercontent.com/93163082/169714868-bde8eb2c-b5ec-4a50-8e95-9505e8759316.gif)
+
+
+
+
+
+
+
 
