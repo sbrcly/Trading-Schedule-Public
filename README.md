@@ -1,9 +1,12 @@
 # Trading-Schedule-Public
-Public repo for Trading Schedule
 
 This is an internal tool that I built for Caesars Sportsbook.
 
-Below, you'll find multiple screenshots and video walk-throughs of the application.
+This is a scheduling tool. It pulls in all of the different games that we offer for a variety of sports and assigns traders to those games. Traders can view their own schedule, filter by date, keyword, or league.
+
+When a trader goes to their page, stats are given on the bottom and they can access their "trader dashboard" (still in development).
+
+There are a number of other features to this application. Below, you'll find multiple screenshots and video walk-throughs of everything the application can do.
 
 Enjoy!
 
@@ -72,14 +75,3 @@ Traders are assigned based on their schedules and the Leagues they have been ass
 ### 6. Game Details on click + hover
 
 ![game_details](https://user-images.githubusercontent.com/93163082/169716428-7db711e3-b9f1-4b20-8abd-5cbfed5c30ff.gif)
-
-
-
-
-
-
-
-
-
-
-
