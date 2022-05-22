@@ -10,4 +10,5 @@ Enjoy!
 
 ## Home Screen
 
-![trade_sched](https://user-images.githubusercontent.com/93163082/169712978-6376bf6b-0f60-41c5-b472-d2a557c2ed53.png)
+
+![home_screen](https://user-images.githubusercontent.com/93163082/169713029-5ebd3564-bc1a-432f-801f-53b1d80c54ee.png)
