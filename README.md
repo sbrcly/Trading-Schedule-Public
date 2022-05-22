@@ -19,3 +19,7 @@ I am then parsing that data and appending it to the table you see.
 
 ### How are traders assigned?
 Traders are assigned based on their schedules and the Leagues they have been assigned.
+
+### How do traders view their personal schedule?
+
+
