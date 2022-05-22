@@ -49,6 +49,24 @@ Traders are assigned based on their schedules and the Leagues they have been ass
 
 ![refresh_table](https://user-images.githubusercontent.com/93163082/169715428-2c5745ac-16a9-48ee-abaa-98d5f3c8b62c.gif)
 
+### 5. League Filters (these filters won't be affected by the "Refresh" button)
+
+  Step 1: Click arrow in upper right corner of screen
+![leagues1](https://user-images.githubusercontent.com/93163082/169716133-efa9516b-447e-4636-ace8-cf9dff88c5c6.png)
+
+  Step 2: On left top of screen, Choose Sport > Country > League
+
+![leagues2](https://user-images.githubusercontent.com/93163082/169716256-f2df8c17-3b22-4cb0-bc1d-10b189283a6e.png)
+
+![leagues3](https://user-images.githubusercontent.com/93163082/169716261-63ed2bb2-42ed-4cc0-8e37-8258f26f5870.png)
+
+![leagues4](https://user-images.githubusercontent.com/93163082/169716268-a62b3fbe-8cf2-4683-80e3-dbdde128bb21.png)
+
+  Step 3: Click "Filter" button on right side of screen
+![leagues5](https://user-images.githubusercontent.com/93163082/169716276-f0702923-da90-4f89-a8ce-48591f0a20ac.png)
+
+![leagues6](https://user-images.githubusercontent.com/93163082/169716278-93335281-8249-48c0-98a5-0cc6a3101987.png)
+
 
 
 
