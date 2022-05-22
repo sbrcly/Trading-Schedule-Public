@@ -41,6 +41,11 @@ Traders are assigned based on their schedules and the Leagues they have been ass
 
 ![date_filter](https://user-images.githubusercontent.com/93163082/169715010-25687427-7922-45be-abeb-b6cc405ae947.gif)
 
+### 3. Search by Keyword
+
+![search_filter](https://user-images.githubusercontent.com/93163082/169715362-83b72097-2642-4dd6-abf1-e0b8e6e4ebd0.gif)
+
+
 
 
 
