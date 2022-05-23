@@ -75,3 +75,9 @@ Traders are assigned based on their schedules and the Leagues they have been ass
 ### 6. Game Details on click + hover
 
 ![game_details](https://user-images.githubusercontent.com/93163082/169716428-7db711e3-b9f1-4b20-8abd-5cbfed5c30ff.gif)
+
+### 7. Duplicates Button (filters table to show only the games that are listed twice, once by each feed provider)
+
+![duplicates](https://user-images.githubusercontent.com/93163082/169871690-e51d0ae5-ccc4-4695-b69f-9fc13e962cc7.gif)
+
+
