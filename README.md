@@ -80,4 +80,14 @@ Traders are assigned based on their schedules and the Leagues they have been ass
 
 ![duplicates](https://user-images.githubusercontent.com/93163082/169871690-e51d0ae5-ccc4-4695-b69f-9fc13e962cc7.gif)
 
+### 8. Notifications (a notification will be shown for any game without a trader attached to it. When a trader is attached, the notification will go away)
+
+![notifications](https://user-images.githubusercontent.com/93163082/169872424-f0944c36-a3af-402b-9571-181ddbc90b07.gif)
+
+### 9. Trader Stats and Dashboard (still in development)
+
+![trader_stats](https://user-images.githubusercontent.com/93163082/169872908-6dd6f140-758a-41b2-86aa-b0cbbae05263.gif)
+
+
+
 
